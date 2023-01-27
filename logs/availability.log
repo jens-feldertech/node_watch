@@ -1,0 +1,695 @@
+2023-01-27, 21:21:44.442, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:21:44.480, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:21:50.644, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:21:50.976, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:21:54.817, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:21:57.761, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:21:58.200, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:21:58.439, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:22:01.078, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:03.710, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:04.611, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:04.818, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:05.915, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:06.897, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:10.994, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:11.067, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:22:13.036, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:14.961, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99999602490334% complete 
+2023-01-27, 21:22:18.205, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:20.384, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99999421804134% complete 
+2023-01-27, 21:22:22.196, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:22.288, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:23.366, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:23.500, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:22:27.580, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:28.323, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:29.730, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99999096568986% complete 
+2023-01-27, 21:22:33.025, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9999895202004% complete 
+2023-01-27, 21:22:35.711, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:35.992, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:22:37.605, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:40.371, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99998699059391% complete 
+2023-01-27, 21:22:43.807, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99998590647691% complete 
+2023-01-27, 21:22:44.807, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:45.061, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:46.931, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:47.130, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:50.124, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99998337687063% complete 
+2023-01-27, 21:22:54.378, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99998193138137% complete 
+2023-01-27, 21:22:55.057, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:22:57.307, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:22:57.408, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:22:59.910, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99998012451987% complete 
+2023-01-27, 21:23:01.374, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:01.656, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:02.735, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:02.996, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:23:09.551, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:10.222, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99997614942478% complete 
+2023-01-27, 21:23:11.063, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:16.707, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:17.817, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99997361981899% complete 
+2023-01-27, 21:23:17.876, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:19.362, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:23.471, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:24.063, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99997109021332% complete 
+2023-01-27, 21:23:25.303, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99997072884109% complete 
+2023-01-27, 21:23:26.562, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99997036746888% complete 
+2023-01-27, 21:23:27.994, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:33.613, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:33.888, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:34.103, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:23:34.416, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99996783786337% complete 
+2023-01-27, 21:23:39.888, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:40.721, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99996530825798% complete 
+2023-01-27, 21:23:41.305, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:45.366, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:47.062, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:48.184, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:49.423, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:50.052, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99996169453624% complete 
+2023-01-27, 21:23:50.309, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:23:53.505, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:53.571, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:23:54.712, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:23:54.928, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:23:55.799, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99995988767546% complete 
+2023-01-27, 21:23:56.674, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:01.995, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:02.141, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:02.957, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:06.401, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:06.432, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99995591258201% complete 
+2023-01-27, 21:24:06.632, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:08.712, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:08.813, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:10.077, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:11.892, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99995410572143% complete 
+2023-01-27, 21:24:14.205, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:14.659, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:15.714, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:15.887, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:17.201, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:19.382, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99995121474467% complete 
+2023-01-27, 21:24:23.126, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:23.361, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:24.429, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:24.618, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:25.472, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:28.785, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99994796239599% complete 
+2023-01-27, 21:24:29.767, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:29.961, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:33.600, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:38.024, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99994434867553% complete 
+2023-01-27, 21:24:38.723, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:39.071, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:39.322, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99994398730348% complete 
+2023-01-27, 21:24:40.129, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:40.193, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:40.895, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:43.598, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99994254181537% complete 
+2023-01-27, 21:24:45.012, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:47.247, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:47.327, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:24:47.941, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9999410963273% complete 
+2023-01-27, 21:24:50.202, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99994001221127% complete 
+2023-01-27, 21:24:53.136, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:24:55.483, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:24:59.541, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99993675986335% complete 
+2023-01-27, 21:25:02.779, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99993567574742% complete 
+2023-01-27, 21:25:03.258, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:03.537, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:09.441, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:10.593, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:11.564, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:13.104, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99993170065586% complete 
+2023-01-27, 21:25:14.683, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:15.804, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:19.699, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:19.988, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:21.401, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9999288096804% complete 
+2023-01-27, 21:25:29.154, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:29.762, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:29.824, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:25:30.884, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:31.167, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:25:31.289, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:31.633, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9999251959613% complete 
+2023-01-27, 21:25:32.224, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:37.868, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99992302772995% complete 
+2023-01-27, 21:25:41.403, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:42.278, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:42.524, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:44.366, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:45.179, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99992013675498% complete 
+2023-01-27, 21:25:49.575, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:51.426, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99991796852387% complete 
+2023-01-27, 21:25:51.667, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:51.667, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:25:51.989, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:25:55.057, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:25:55.114, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:25:58.779, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99991543892101% complete 
+2023-01-27, 21:26:00.794, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:03.184, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:03.418, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:26:09.020, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99991146383108% complete 
+2023-01-27, 21:26:10.936, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:12.094, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:12.476, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:12.656, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:26:13.714, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:14.045, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:26:15.322, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99990929560033% complete 
+2023-01-27, 21:26:17.214, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:21.558, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9999071273697% complete 
+2023-01-27, 21:26:22.104, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:24.331, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:27.163, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:28.241, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:29.804, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99990423639564% complete 
+2023-01-27, 21:26:31.313, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:31.443, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:32.591, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:36.374, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:37.057, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99990134542175% complete 
+2023-01-27, 21:26:38.767, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:39.327, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99990062267831% complete 
+2023-01-27, 21:26:39.886, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:41.063, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:42.180, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:42.429, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:42.567, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99989953856317% complete 
+2023-01-27, 21:26:44.298, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:44.536, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:46.825, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99989809307634% complete 
+2023-01-27, 21:26:48.115, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99989737033293% complete 
+2023-01-27, 21:26:51.614, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:51.674, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:26:53.474, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:54.734, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:26:55.010, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:26:56.653, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:26:57.405, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998941179878% complete 
+2023-01-27, 21:26:59.652, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99989339524444% complete 
+2023-01-27, 21:27:00.777, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:03.084, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:03.217, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:04.888, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99989158838612% complete 
+2023-01-27, 21:27:06.896, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:07.294, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:09.182, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998897815279% complete 
+2023-01-27, 21:27:16.361, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:16.666, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:17.014, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:19.443, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998861678116% complete 
+2023-01-27, 21:27:19.735, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:21.797, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:21.904, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:23.763, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99988472232518% complete 
+2023-01-27, 21:27:25.139, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:28.980, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:29.046, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:30.267, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:31.395, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:32.060, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99988146998083% complete 
+2023-01-27, 21:27:37.114, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:37.179, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:39.353, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99987894037983% complete 
+2023-01-27, 21:27:39.517, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:41.244, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:41.548, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:42.604, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:45.592, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99987677215049% complete 
+2023-01-27, 21:27:47.641, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:49.674, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:50.838, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99987496529279% complete 
+2023-01-27, 21:27:55.773, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:27:58.102, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998720743206% complete 
+2023-01-27, 21:27:58.745, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:27:58.835, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:27:58.921, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:00.470, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99987135157757% complete 
+2023-01-27, 21:28:05.921, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:06.059, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:28:06.769, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99986918334858% complete 
+2023-01-27, 21:28:09.044, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:11.239, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:14.148, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:16.001, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99986556963378% complete 
+2023-01-27, 21:28:17.288, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99986520826232% complete 
+2023-01-27, 21:28:19.246, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:19.326, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:28:19.349, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:20.479, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:24.671, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99986267866213% complete 
+2023-01-27, 21:28:27.475, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:27.707, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:28:27.735, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:30.150, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:32.172, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99985978769065% complete 
+2023-01-27, 21:28:34.975, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:35.083, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:28:36.267, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:37.391, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:41.461, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99985653534793% complete 
+2023-01-27, 21:28:41.514, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:42.148, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:43.291, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:43.350, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:28:47.679, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:49.043, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99985400574819% complete 
+2023-01-27, 21:28:50.871, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:51.528, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:28:51.602, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:28:54.497, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99985183751996% complete 
+2023-01-27, 21:28:55.019, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:28:55.893, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99985147614858% complete 
+2023-01-27, 21:29:01.678, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:01.730, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:29:03.785, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:05.149, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99984786243506% complete 
+2023-01-27, 21:29:05.188, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:08.850, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:09.323, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:12.666, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99984533283576% complete 
+2023-01-27, 21:29:16.952, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:17.020, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:29:17.447, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:20.107, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:20.583, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:21.023, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99984244186528% complete 
+2023-01-27, 21:29:28.011, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:28.362, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:28.624, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99983955089498% complete 
+2023-01-27, 21:29:31.241, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:31.923, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99983846678114% complete 
+2023-01-27, 21:29:35.457, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:35.513, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:29:37.232, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99983629855357% complete 
+2023-01-27, 21:29:39.372, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:40.498, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:42.465, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99983449169734% complete 
+2023-01-27, 21:29:44.654, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:44.792, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:29:50.625, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:29:51.701, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99983123935627% complete 
+2023-01-27, 21:29:51.852, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:29:52.164, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:29:55.753, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:00.163, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998279870154% complete 
+2023-01-27, 21:30:02.366, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:02.612, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:03.958, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:06.405, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99982581878827% complete 
+2023-01-27, 21:30:07.699, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998254574171% complete 
+2023-01-27, 21:30:08.086, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:10.946, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99982401193242% complete 
+2023-01-27, 21:30:12.674, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:12.730, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:13.244, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99982328919008% complete 
+2023-01-27, 21:30:15.276, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:17.794, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:17.869, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:20.933, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:21.155, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:23.491, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99981967547862% complete 
+2023-01-27, 21:30:24.215, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:24.275, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:25.395, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:31.793, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9998167845096% complete 
+2023-01-27, 21:30:34.345, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:34.511, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:38.632, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:39.691, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:42.036, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99981280942752% complete 
+2023-01-27, 21:30:46.761, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:47.760, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:47.823, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:50.978, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:30:52.338, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99980919571681% complete 
+2023-01-27, 21:30:53.885, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:54.959, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:30:55.015, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:30:55.154, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:00.355, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:01.605, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99980594337737% complete 
+2023-01-27, 21:31:02.076, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:02.217, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:03.845, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99980522063531% complete 
+2023-01-27, 21:31:05.276, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:05.330, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:09.500, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:10.091, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99980269103817% complete 
+2023-01-27, 21:31:15.517, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:15.672, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:15.673, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99980088418314% complete 
+2023-01-27, 21:31:16.672, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:17.734, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:17.845, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:17.846, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:17.959, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99979980007015% complete 
+2023-01-27, 21:31:21.907, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:21.977, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:21.977, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:23.130, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:24.151, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:24.220, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:25.475, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99979727047328% complete 
+2023-01-27, 21:31:27.420, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:33.286, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:34.828, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99979401813462% complete 
+2023-01-27, 21:31:35.586, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:37.347, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:37.511, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:39.789, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:40.399, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99979184990899% complete 
+2023-01-27, 21:31:43.585, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:47.643, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:47.725, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:31:48.009, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:51.030, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99978823619978% complete 
+2023-01-27, 21:31:53.376, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:31:54.016, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:31:56.502, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99978606797438% complete 
+2023-01-27, 21:31:58.537, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:03.246, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:03.918, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99978353837821% complete 
+2023-01-27, 21:32:05.486, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:05.587, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:32:06.776, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:06.897, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:32:07.775, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:09.303, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:10.490, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99978100878214% complete 
+2023-01-27, 21:32:12.259, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:14.382, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:14.572, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:32:16.477, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:19.666, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:21.089, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99977739507374% complete 
+2023-01-27, 21:32:22.686, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:27.681, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.999774865478% complete 
+2023-01-27, 21:32:29.914, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:30.117, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99977378136556% complete 
+2023-01-27, 21:32:31.491, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99977341999477% complete 
+2023-01-27, 21:32:31.837, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:36.963, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:37.005, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9997716131408% complete 
+2023-01-27, 21:32:38.194, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:38.308, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:32:39.061, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:39.444, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:39.627, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:32:40.386, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99977016765766% complete 
+2023-01-27, 21:32:41.839, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99976980628689% complete 
+2023-01-27, 21:32:47.279, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:32:47.764, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:49.346, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99976691532078% complete 
+2023-01-27, 21:32:54.592, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99976510846705% complete 
+2023-01-27, 21:32:54.828, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:32:55.167, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:32:56.407, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:00.530, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:00.837, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99976294024265% complete 
+2023-01-27, 21:33:02.233, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:02.423, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:33:04.311, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99976149475978% complete 
+2023-01-27, 21:33:09.673, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:11.603, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:11.755, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:33:11.780, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99975896516484% complete 
+2023-01-27, 21:33:12.969, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:14.424, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99975788105276% complete 
+2023-01-27, 21:33:16.104, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:19.351, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:19.880, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:20.007, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99975607419935% complete 
+2023-01-27, 21:33:23.519, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99975462871666% complete 
+2023-01-27, 21:33:24.049, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:24.616, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:25.878, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99975390597535% complete 
+2023-01-27, 21:33:27.873, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:32.019, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:33.304, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99975101501016% complete 
+2023-01-27, 21:33:34.384, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:38.738, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:42.173, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:44.183, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9997474013039% complete 
+2023-01-27, 21:33:46.821, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:47.185, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:33:50.465, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:52.739, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9997441489685% complete 
+2023-01-27, 21:33:53.829, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:33:56.262, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99974270348616% complete 
+2023-01-27, 21:33:56.263, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:33:56.364, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:33:58.956, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:05.564, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:06.587, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99973908978052% complete 
+2023-01-27, 21:34:09.115, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:09.626, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:09.930, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:10.237, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:11.982, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:15.038, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:15.216, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:16.822, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99973547607513% complete 
+2023-01-27, 21:34:20.518, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:21.593, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:25.689, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:27.435, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99973150099949% complete 
+2023-01-27, 21:34:29.656, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:29.733, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:33.733, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99972933277655% complete 
+2023-01-27, 21:34:33.837, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:33.905, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:34.861, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:36.136, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:38.024, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99972752592416% complete 
+2023-01-27, 21:34:41.302, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:41.425, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:43.003, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:46.281, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9997246349605% complete 
+2023-01-27, 21:34:49.535, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99972355084918% complete 
+2023-01-27, 21:34:50.130, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:50.495, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:55.296, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:34:55.640, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:55.774, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:57.113, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:34:57.192, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:34:58.562, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:00.108, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9997199371449% complete 
+2023-01-27, 21:35:01.017, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:02.552, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:02.639, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:35:09.607, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99971632344091% complete 
+2023-01-27, 21:35:11.203, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:12.715, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:12.976, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:35:18.121, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:18.122, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99971343247788% complete 
+2023-01-27, 21:35:18.703, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:19.921, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:20.493, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9997123483668% complete 
+2023-01-27, 21:35:21.114, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:24.273, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:24.395, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:35:28.057, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99970981877433% complete 
+2023-01-27, 21:35:29.521, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99970909603367% complete 
+2023-01-27, 21:35:31.234, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:33.502, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:33.767, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99970765055235% complete 
+2023-01-27, 21:35:34.357, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:39.007, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99970548233044% complete 
+2023-01-27, 21:35:42.657, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:42.661, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:44.015, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:48.128, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:48.795, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:48.933, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:35:49.422, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99970186862748% complete 
+2023-01-27, 21:35:50.124, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:50.314, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:35:56.304, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:58.383, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:35:58.445, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:35:58.771, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:35:59.790, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99969825492478% complete 
+2023-01-27, 21:36:01.084, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99969753218427% complete 
+2023-01-27, 21:36:05.498, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99969608670328% complete 
+2023-01-27, 21:36:07.557, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:07.829, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:08.027, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:36:09.787, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99969464122232% complete 
+2023-01-27, 21:36:16.089, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:17.677, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:18.277, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99969138889037% complete 
+2023-01-27, 21:36:18.290, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:21.675, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99969030477975% complete 
+2023-01-27, 21:36:23.362, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:24.961, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99968885929896% complete 
+2023-01-27, 21:36:25.855, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:30.218, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99968705244807% complete 
+2023-01-27, 21:36:31.417, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:31.583, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:36:35.004, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99968560696738% complete 
+2023-01-27, 21:36:35.841, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:36.223, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:38.564, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:40.501, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99968343874642% complete 
+2023-01-27, 21:36:42.904, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:42.957, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:36:44.738, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:46.747, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99968127052557% complete 
+2023-01-27, 21:36:46.862, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:50.017, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:50.092, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:36:52.172, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:36:53.054, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99967874093471% complete 
+2023-01-27, 21:36:54.727, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99967837956459% complete 
+2023-01-27, 21:36:57.097, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:36:59.631, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99967657271405% complete 
+2023-01-27, 21:37:02.268, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:02.385, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:37:04.245, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:04.583, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:07.865, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99967368175334% complete 
+2023-01-27, 21:37:10.686, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:11.116, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99967223627303% complete 
+2023-01-27, 21:37:13.384, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:17.404, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99967006805267% complete 
+2023-01-27, 21:37:20.860, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:20.957, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99966898394251% complete 
+2023-01-27, 21:37:23.633, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:23.928, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:25.504, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99966717709232% complete 
+2023-01-27, 21:37:27.087, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:28.785, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:32.155, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:32.215, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:37:34.799, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99966392476213% complete 
+2023-01-27, 21:37:35.905, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:37.140, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99966284065212% complete 
+2023-01-27, 21:37:41.130, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:41.579, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:41.879, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:37:42.661, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99966103380214% complete 
+2023-01-27, 21:37:46.127, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:46.156, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9996595883222% complete 
+2023-01-27, 21:37:46.246, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:37:48.662, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99965886558225% complete 
+2023-01-27, 21:37:49.246, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:50.898, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99965814284234% complete 
+2023-01-27, 21:37:51.382, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:52.153, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9996574201024% complete 
+2023-01-27, 21:37:52.341, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:37:52.399, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:37:58.640, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:37:59.693, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:02.779, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9996538064029% complete 
+2023-01-27, 21:38:04.019, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:04.045, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:04.432, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99965308366303% complete 
+2023-01-27, 21:38:07.247, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:07.835, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99965199955327% complete 
+2023-01-27, 21:38:11.172, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:11.297, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:38:11.395, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:13.179, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99964983133377% complete 
+2023-01-27, 21:38:14.382, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:14.689, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:38:21.419, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99964694037459% complete 
+2023-01-27, 21:38:21.511, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:24.773, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:27.628, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:28.986, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:30.444, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:30.630, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:38:32.258, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99964332667587% complete 
+2023-01-27, 21:38:34.764, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:39.000, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:40.620, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99964007434723% complete 
+2023-01-27, 21:38:43.006, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:45.999, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99963790612826% complete 
+2023-01-27, 21:38:46.373, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:46.553, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:38:47.234, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99963754475843% complete 
+2023-01-27, 21:38:49.127, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:52.608, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:53.260, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:38:54.667, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:38:54.837, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:38:57.575, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99963393106039% complete 
+2023-01-27, 21:39:00.384, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:01.917, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:04.973, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9996314014719% complete 
+2023-01-27, 21:39:08.090, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:09.550, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:11.225, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99962887188354% complete 
+2023-01-27, 21:39:17.234, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:17.299, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:39:17.523, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99962670366506% complete 
+2023-01-27, 21:39:19.689, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:21.231, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99962561955586% complete 
+2023-01-27, 21:39:22.422, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:22.572, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:39:25.595, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99962381270721% complete 
+2023-01-27, 21:39:27.813, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:27.890, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99962308996778% complete 
+2023-01-27, 21:39:28.629, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:30.234, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99962200585865% complete 
+2023-01-27, 21:39:32.680, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:32.750, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:39:33.820, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:33.930, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:35.053, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:35.884, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:36.475, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99961983764048% complete 
+2023-01-27, 21:39:39.098, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:39.415, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:39:40.265, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:46.719, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9996162239437% complete 
+2023-01-27, 21:39:48.466, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:49.388, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:50.017, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99961477846504% complete 
+2023-01-27, 21:39:50.514, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:39:50.659, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:55.729, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:39:55.782, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:39:57.330, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99961224887754% complete 
+2023-01-27, 21:39:59.899, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99961152613828% complete 
+2023-01-27, 21:40:00.941, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:05.182, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:05.982, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:07.312, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:10.187, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99960755107251% complete 
+2023-01-27, 21:40:14.504, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:15.051, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:15.108, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:40:16.425, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99960538285494% complete 
+2023-01-27, 21:40:22.425, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:22.565, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:40:22.974, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99960321463746% complete 
+2023-01-27, 21:40:24.736, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:25.534, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99960213052879% complete 
+2023-01-27, 21:40:26.827, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:28.032, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:28.055, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99960140778967% complete 
+2023-01-27, 21:40:28.934, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:29.598, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99960068505055% complete 
+2023-01-27, 21:40:34.843, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99959887820282% complete 
+2023-01-27, 21:40:35.005, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:35.080, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:40:36.116, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99959815546374% complete 
+2023-01-27, 21:40:36.207, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:37.366, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99959779409421% complete 
+2023-01-27, 21:40:38.158, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:38.408, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:40:43.608, [info], availability_check; ethereum; https://eth.llamarpc.com; Available - Fully synchronized 
+2023-01-27, 21:40:43.756, [info], integrity_check; ethereum; https://eth.llamarpc.com; Integrity check passed 
+2023-01-27, 21:40:44.897, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.9999967476621% complete 
+2023-01-27, 21:40:45.569, [info], availability_check; ethereum; https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - Fully synchronized 
+2023-01-27, 21:40:49.567, [info], availability_check; bitcoin; https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/; Available - 0/15 blocks behind, 99.99999494080781% complete 

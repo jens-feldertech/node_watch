@@ -30,7 +30,6 @@ config :esbuild,
     env: %{"NODE_PATH" => Path.expand("../deps", __DIR__)}
   ]
 
-# Configure tailwind (the version is required)
 config :tailwind,
   version: "3.1.8",
   default: [
@@ -43,21 +42,83 @@ config :tailwind,
   ]
 
 # Configures Elixir's Logger
-config :logger, :console,
-  format: "$time $metadata[$level] $message\n",
-  metadata: [:request_id]
+config :logger,
+  backends: [:console, {LoggerFileBackend, :info}],
+  level: :debug
 
-# Use Jason for JSON parsing in Phoenix
+config :logger, :info,
+  path: "logs/availability.log",
+  format: "$date, $time, [$level], $message \n",
+  level: :info
+
 config :phoenix, :json_library, Jason
 
 # Import environment specific config. This must remain at the bottom
 # of this file so it overrides the configuration defined above.
 import_config "#{config_env()}.exs"
 
-config :node_watch, :btc_node,
-  endpoint: "http://127.0.0.1:8332",
-  username: "my_username",
-  password: "my_password"
+config :node_watch, :nodes,
+  [
+    %{
+      url: "https://eth.llamarpc.com",
+      chain: :ethereum,
+      trusted: true,
+      name: "llamarpc_eth"
+    },
+    %{
+      url: "https://eth.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/",
+      chain: :ethereum,
+      trusted: false,
+      name: "getblock_eth"
+    },
+    %{
+      url: "https://btc.getblock.io/2e50183d-4f7d-4bd4-809b-17a61b87fd11/mainnet/",
+      chain: :bitcoin,
+      trusted: false,
+      name: "getblock_btc"
+    }
+  ]
 
-config :node_watch, :eth_node,
-  endpoint: "http://127.0.0.1:8545"
+config :node_watch, NodeWatch.IntegrityChecker,
+  ethereum: [
+      %{
+        method: "eth_chainId"
+      },
+      %{
+        method: "eth_getBalance",
+        params: ["0xbe0eb53f46cd790cd13851d5eff43d12404d33e8", "0x1E0F3"] # TODO: change block number
+      }
+      # %{
+      #   method: "eth_getCode", #TODO
+      #   params: ["earliest", false]
+      # }
+      # %{
+      #   method: "eth_call",
+      #   params: [%{
+      #     to: "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      #     data: "0x18160ddd"
+      #   }, "latest"]
+      # }
+    ],
+  bitcoin: [
+    %{
+      method: "getblockchaininfo"
+    },
+    %{
+      method: "total balance"
+    }
+  ]
+
+config :node_watch, :max_blocks_behind, 15
+
+# Set initial check interval in seconds
+# config :node_watch, :initial_check_interval, 450
+config :node_watch, :initial_check_interval, 10
+
+config :node_watch, NodeWatch.RPCClient,
+  jsonrpc_version: [
+    bitcoin: "1.0",
+    ethereum: "2.0"
+  ],
+  # ! change to 60_000
+  http_timeout: 10_000
