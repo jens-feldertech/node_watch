@@ -11,10 +11,18 @@ defmodule NodeWatch.Ethereum do
       {:ok, result} ->
         case availability_status(result, node.url) do
           {:within_max_blocks_behind, blocks_behind} ->
-            {:ok, craft_message(node, "Available - #{blocks_behind}/#{@max_blocks_behind} blocks behind")}
+            {:ok,
+             craft_message(
+               node,
+               "Available - #{blocks_behind}/#{@max_blocks_behind} blocks behind"
+             )}
 
           {:exceeds_max_blocks_behind, blocks_behind} ->
-            {:error, craft_message(node, "Unavailable - #{blocks_behind}/#{@max_blocks_behind} blocks behind")}
+            {:error,
+             craft_message(
+               node,
+               "Unavailable - #{blocks_behind}/#{@max_blocks_behind} blocks behind"
+             )}
         end
 
       {:error, _error} ->
@@ -41,10 +49,13 @@ defmodule NodeWatch.Ethereum do
 
   defp get_syncing_status(url), do: RPCClient.post(:ethereum, "eth_syncing", url)
 
-  defp get_latest_block_number(url), do: RPCClient.post(:ethereum, "eth_blockNumber", url)
+  def get_latest_block_number(url), do: RPCClient.post(:ethereum, "eth_blockNumber", url)
 
   defp hex_to_integer(<<"0x", block_number::binary>>),
     do: :erlang.binary_to_integer(block_number, 16)
 
-  defp craft_message(node, message), do: "availability_check; #{node.chain}; #{node.url}; #{message}"
+  defp craft_message(node, message),
+    do: "availability_check; #{node.chain}; #{node.url}; #{message}"
 end
+
+# NodeWatch.Ethereum.get_latest_block_number("https://eth.llamarpc.com")

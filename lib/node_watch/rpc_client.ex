@@ -24,9 +24,10 @@ defmodule NodeWatch.RPCClient do
   end
 
   def patch_post(chain, methods, url) do
-    body = methods
-    |> enrich_methods(chain)
-    |> Jason.encode!()
+    body =
+      methods
+      |> enrich_methods(chain)
+      |> Jason.encode!()
 
     headers = [{"Content-Type", "application/json"}]
 
@@ -34,12 +35,10 @@ defmodule NodeWatch.RPCClient do
     |> format_patch_response()
   end
 
-  # TODO: change
   defp format_patch_response({:ok, %HTTPoison.Response{status_code: 200, body: body}}) do
     {:ok, Jason.decode!(body)}
   end
 
-  # TODO: change
   defp format_patch_response({:ok, %HTTPoison.Response{status_code: status_code, body: body}}) do
     {:error, %{status_code: status_code, body: Jason.decode!(body)}}
   end
@@ -80,7 +79,7 @@ defmodule NodeWatch.RPCClient do
     Enum.with_index(methods, fn method, i ->
       method
       |> Map.put(:jsonrpc, jsonrpc_version(chain))
-      |> Map.put(:id, i+1)
+      |> Map.put(:id, i + 1)
     end)
   end
 end

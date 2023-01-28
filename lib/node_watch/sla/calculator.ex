@@ -13,15 +13,14 @@ defmodule NodeWatch.SLA.Calculator do
   @log_file "logs/availability.log"
   @log_separator "; "
 
-  # TODO: Handle case when no logs for given date
   def daily_sla() do
     @log_file
     |> create_file_stream()
-    |> get_lines_by_date()
-    |> filter_availability_logs()
+    |> get_availability_lines_by_date()
     |> group_by_node()
     |> calculate_down_times()
     |> assign_sla_levels()
+    |> convert_to_map()
   end
 
   defp create_file_stream(file_path) do
@@ -30,22 +29,22 @@ defmodule NodeWatch.SLA.Calculator do
     |> Enum.reverse()
   end
 
-  defp get_lines_by_date(file_stream) do
+  defp get_availability_lines_by_date(file_stream) do
     file_stream
-    |> Enum.take_while(fn line ->
+    |> Enum.reduce_while([], fn line, acc ->
+      line_date = get_line_date(line)
 
-      line
-      |> get_line_date()
-      |> line_date_within_today?()
+      if String.contains?(line, "availability_check") do
+        if line_date_within_today?(line_date) do
+          {:cont, [line | acc]}
+        else
+          {:halt, acc}
+        end
+      else
+        {:cont, acc}
+      end
     end)
     |> Enum.reverse()
-  end
-
-  defp filter_availability_logs(log_lines) do
-    log_lines
-    |> Enum.filter(fn line ->
-      String.contains?(line, "availability_check")
-    end)
   end
 
   defp group_by_node(log_lines) do
@@ -57,9 +56,9 @@ defmodule NodeWatch.SLA.Calculator do
   end
 
   defp calculate_down_times(grouped_logs) do
-    Enum.map(grouped_logs, fn {chain, logs} ->
+    Enum.map(grouped_logs, fn {node, logs} ->
       %{down_time: node_down_time} = calculate_node_down_time(logs)
-      {chain, node_down_time}
+      {node, node_down_time}
     end)
   end
 
@@ -73,7 +72,7 @@ defmodule NodeWatch.SLA.Calculator do
     acc = %{last_line: %{level: "[info]", time: nil}, down_time: 0}
 
     Enum.reduce(node_logs, acc, fn current_line, acc ->
-      [_, _, line_level, _, _, _, _]  = current_line
+      [_, _, line_level, _, _, _, _] = current_line
 
       case {acc.last_line.level, line_level} do
         {"[error]", "[info]"} ->
@@ -84,13 +83,14 @@ defmodule NodeWatch.SLA.Calculator do
         {"[info]", "[error]"} ->
           update_last_line(acc, current_line)
 
-        _ -> acc
+        _ ->
+          acc
       end
     end)
   end
 
   defp update_last_line(acc, current_line) do
-    [_, time, level, _, _, _, _]  = current_line
+    [_, time, level, _, _, _, _] = current_line
 
     Map.put(acc, :last_line, %{level: level, time: time})
   end
@@ -112,14 +112,14 @@ defmodule NodeWatch.SLA.Calculator do
     end
   end
 
-  defp get_line_date(line)do
-    [line_date | _t]  = String.split(line, @log_separator)
+  defp get_line_date(line) do
+    [line_date | _t] = String.split(line, @log_separator)
 
     line_date
   end
 
   defp update_down_time(acc, current_line) do
-    [_, time, _, _, _, _, _]  = current_line
+    [_, time, _, _, _, _, _] = current_line
 
     {:ok, last_line_time} = Time.from_iso8601(acc.last_line.time)
     {:ok, current_line_time} = Time.from_iso8601(time)
@@ -128,4 +128,6 @@ defmodule NodeWatch.SLA.Calculator do
 
     Map.put(acc, :down_time, down_time)
   end
+
+  defp convert_to_map(slas), do: Enum.into(slas, %{})
 end

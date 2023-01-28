@@ -6,12 +6,14 @@ defmodule NodeWatch.Application do
   @impl true
   def start(_type, _args) do
     children =
-    availability_checkers ++ [
-      NodeWatchWeb.Telemetry,
-      {Phoenix.PubSub, name: NodeWatch.PubSub},
-      NodeWatchWeb.Endpoint,
-      NodeWatch.SLA.Worker
-    ]
+      availability_checkers() ++
+        [
+          NodeWatchWeb.Telemetry,
+          {Phoenix.PubSub, name: NodeWatch.PubSub},
+          NodeWatchWeb.Endpoint,
+          NodeWatch.SLA.Worker,
+          NodeWatch.Integrity.Worker
+        ]
 
     opts = [strategy: :one_for_one, name: NodeWatch.Supervisor]
     Supervisor.start_link(children, opts)
@@ -27,7 +29,7 @@ defmodule NodeWatch.Application do
 
   defp availability_checkers do
     for node <- Application.get_env(:node_watch, :nodes) do
-      Supervisor.child_spec({NodeWatch.AvailabilityWorker, %{node: node, cache: nil}},
+      Supervisor.child_spec({NodeWatch.AvailabilityWorker, node},
         id: "availability_checker_#{to_string(node.name)}"
       )
     end

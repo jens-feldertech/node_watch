@@ -14,10 +14,18 @@ defmodule NodeWatch.Bitcoin do
           {:ok, craft_message(node, "Available - Fully synchronized")}
 
         {:synchronizing, blocks_behind, progress} ->
-          {:ok, craft_message(node, "Available - #{blocks_behind}/#{@max_blocks_behind} blocks behind, #{progress}% complete")}
+          {:ok,
+           craft_message(
+             node,
+             "Available - #{blocks_behind}/#{@max_blocks_behind} blocks behind, #{progress}% complete"
+           )}
 
         {:behind_blocks, blocks_behind, progress} ->
-          {:error, craft_message(node, "Unavailable - #{blocks_behind}/#{@max_blocks_behind} blocks behind, #{progress}% complete")}
+          {:error,
+           craft_message(
+             node,
+             "Unavailable - #{blocks_behind}/#{@max_blocks_behind} blocks behind, #{progress}% complete"
+           )}
       end
     else
       {:error, _error} ->
@@ -27,7 +35,7 @@ defmodule NodeWatch.Bitcoin do
 
   defp availability_status(result, url) do
     blocks_behind = blocks_behind(result["blocks"], url)
-    progress = result["verificationprogress"]*100
+    progress = result["verificationprogress"] * 100
 
     cond do
       progress == 100 -> :synchronized
@@ -46,5 +54,6 @@ defmodule NodeWatch.Bitcoin do
 
   defp get_blockchain_info(url), do: RPCClient.post(:bitcoin, "getblockchaininfo", url)
 
-  defp craft_message(node, message), do: "availability_check; #{node.chain}; #{node.url}; #{message}"
+  defp craft_message(node, message),
+    do: "availability_check; #{node.chain}; #{node.url}; #{message}"
 end
