@@ -8,11 +8,7 @@ defmodule NodeWatch.SLA.Worker do
   require Logger
 
   # 24 Hours
-  # @interval 86_400_000 # !
-  # 5 Seconds
-  @interval 5_000
-
-  @sla_topic "sla_update"
+  @interval 86_400_000
 
   def start_link(_) do
     GenServer.start_link(__MODULE__, nil)

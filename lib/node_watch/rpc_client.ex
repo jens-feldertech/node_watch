@@ -40,6 +40,7 @@ defmodule NodeWatch.RPCClient do
   end
 
   defp format_patch_response({:ok, %HTTPoison.Response{status_code: status_code, body: body}}) do
+    IO.inspect(body)
     {:error, %{status_code: status_code, body: Jason.decode!(body)}}
   end
 

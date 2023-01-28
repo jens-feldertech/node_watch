@@ -19,6 +19,7 @@ defmodule NodeWatch.Integrity.Worker do
     {:ok, cache}
   end
 
+  # TODO: refactor
   @impl true
   def handle_cast({:initiate_integrity_check, node}, cache) do
     # Check integrity only if node is trusted, perform_check? returns true and module is enabled
@@ -30,8 +31,12 @@ defmodule NodeWatch.Integrity.Worker do
 
       {:noreply, cache}
     else
-      updated_cache_state = get_cache_state_for_node(node, cache)
-      {:noreply, updated_cache_state}
+      if node.trusted do
+        updated_cache_state = get_cache_state_for_node(node, cache)
+        {:noreply, updated_cache_state}
+      else
+        {:noreply, cache}
+      end
     end
   end
 

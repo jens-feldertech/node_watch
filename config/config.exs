@@ -88,7 +88,8 @@ config :node_watch, NodeWatch.Integrity.Checker,
     },
     %{
       method: "eth_getBalance",
-      params: ["0xbe0eb53f46cd790cd13851d5eff43d12404d33e8", "0xfbdef4"]
+      # TODO: change block number
+      params: ["0xbe0eb53f46cd790cd13851d5eff43d12404d33e8", "0x1E0F3"]
     }
     # %{
     #   method: "eth_getCode", #TODO
@@ -101,16 +102,16 @@ config :node_watch, NodeWatch.Integrity.Checker,
     #     data: "0x18160ddd"
     #   }, "latest"]
     # }
-  ],
-  # TODO add methods
-  bitcoin: [
-    %{
-      method: "getblockchaininfo"
-    },
-    %{
-      method: "total balance"
-    }
   ]
+
+# bitcoin: [ # TODO: add more methods
+#   %{
+#     method: "getblockchaininfo"
+#   },
+#   %{
+#     method: "total balance"
+#   }
+# ]
 
 config :node_watch, :max_blocks_behind, 15
 
