@@ -33,7 +33,7 @@ defmodule NodeWatchWeb.Dashboard do
       <div class="d-flex align-items-center" style="height: 70vh;">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-sm-8 offset-sm-2">
+            <div class="col-sm-10 offset-sm-1">
               <div class="card">
                 <div class="card-body">
                   <div class="card-body">

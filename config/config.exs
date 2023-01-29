@@ -78,8 +78,14 @@ config :node_watch, :nodes, [
   %{
     url: "https://endpoints.omniatech.io/v1/btc/mainnet/6b0a4848e1d94f84b740d28045638995",
     chain: :bitcoin,
-    trusted: true,
+    trusted: false,
     name: "omnia_btc"
+  },
+  %{
+    url: "https://endpoints.omniatech.io/v1/btc/mainnet/public",
+    chain: :bitcoin,
+    trusted: true,
+    name: "omnia_btc_public"
   }
 ]
 
