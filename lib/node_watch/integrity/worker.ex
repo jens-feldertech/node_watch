@@ -1,7 +1,13 @@
 defmodule NodeWatch.Integrity.Worker do
+  @moduledoc """
+    This module is responsible for initiating integrity check for a node provided by the caller.
+    It will cache the initial response from trusted nodes
+    and compare it with the response from the node provided by the caller when the integrity check is initiated.
+  """
+
   use GenServer
 
-  alias NodeWatch.Integrity.Checker
+  alias NodeWatch.Integrity.CheckerService
 
   require Logger
 
@@ -13,31 +19,25 @@ defmodule NodeWatch.Integrity.Worker do
 
   @impl true
   def init(_) do
-    # Cache initial integrity_check response when the process starts
+    # Cache initial integrity_check response from trusted nodes when the process starts
     cache = get_cache_state()
 
     {:ok, cache}
   end
 
-  # TODO: refactor
   @impl true
   def handle_cast({:initiate_integrity_check, node}, cache) do
-    # Check integrity only if node is trusted, perform_check? returns true and module is enabled
-    if has_cached_response?(node, cache) and @module_enabled? and node.trusted and
-         perform_check?() do
+    # Check integrity only if node is trusted, do_perform_check? returns true and module is enabled in config
+    if @module_enabled? and
+         chain_has_chached_response?(node.chain, cache) and
+         do_perform_check?() and
+         not node.trusted do
       node
-      |> Checker.check_node_integrity(cache)
+      |> CheckerService.check_node_integrity(cache)
       |> log_message()
-
-      {:noreply, cache}
-    else
-      if node.trusted do
-        updated_cache_state = get_cache_state_for_node(node, cache)
-        {:noreply, updated_cache_state}
-      else
-        {:noreply, cache}
-      end
     end
+
+    {:noreply, cache}
   end
 
   defp get_cache_state() do
@@ -49,9 +49,9 @@ defmodule NodeWatch.Integrity.Worker do
   end
 
   defp get_cache_state_for_node(node, cache) do
-    case Checker.get_initial_response(node) do
+    case CheckerService.get_initial_response(node) do
       {:ok, response} ->
-        Map.put(cache, node.name, response)
+        Map.put(cache, node.chain, response)
 
       {:error, message} ->
         log_message({:error, message})
@@ -62,16 +62,12 @@ defmodule NodeWatch.Integrity.Worker do
   defp log_message({:ok, message}), do: Logger.info(message)
   defp log_message({:error, message}), do: Logger.error(message)
 
-  # defp perform_check?(), do: Enum.random([true, false])
-  # ! temporary
-  defp perform_check?(), do: true
+  defp do_perform_check?(), do: Enum.random([true, false])
 
   defp get_trusted_nodes() do
     Application.get_env(:node_watch, :nodes)
     |> Enum.filter(& &1.trusted)
   end
 
-  defp has_cached_response?(node, cache) do
-    Map.has_key?(cache, node.name)
-  end
+  defp chain_has_chached_response?(chain, cache), do: Map.has_key?(cache, chain)
 end

@@ -1,4 +1,7 @@
 defmodule NodeWatch.SLA.Worker do
+  @moduledoc """
+    This module is responsible for periodically calculating SLA for the nodes.
+  """
   use GenServer
 
   alias Phoenix.PubSub
@@ -7,6 +10,7 @@ defmodule NodeWatch.SLA.Worker do
 
   require Logger
 
+  # TODO schedule based on time of day
   # 24 Hours
   @interval 86_400_000
 

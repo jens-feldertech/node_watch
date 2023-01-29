@@ -1,13 +1,15 @@
 defmodule NodeWatch.SLA.Calculator do
   @moduledoc """
-  Calculates the down time for each node based on availability logs
-  and assigns sla level based on the given criteria.
+    This module is responsible for calculating the SLA for each node.
 
-  99% = max. downtime of 15 minutes / day
-  96% = max. downtime of 1 hour / day
-  88% = max. downtime of 3 hours / day
-  75% = max. downtime of 6 hours / day
-  50% = max. downtime of 12 hours / day
+    It Calculates the down time for each node based on availability logs
+    and assigns sla level based on the given criteria.
+
+    99% = max. downtime of 15 minutes / day
+    96% = max. downtime of 1 hour / day
+    88% = max. downtime of 3 hours / day
+    75% = max. downtime of 6 hours / day
+    50% = max. downtime of 12 hours / day
   """
 
   @log_file "logs/availability.log"

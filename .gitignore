@@ -32,3 +32,6 @@ node_watch-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# log files
+/logs/availability.log
+

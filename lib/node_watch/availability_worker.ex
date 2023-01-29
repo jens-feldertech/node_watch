@@ -1,9 +1,11 @@
 defmodule NodeWatch.AvailabilityWorker do
+  @moduledoc """
+    This module is responsible for periodically checking the availability of the node.
+  """
   use GenServer
 
-  alias NodeWatch.Bitcoin
-  alias NodeWatch.Ethereum
-  # alias NodeWatch.Integrity.Checker
+  alias NodeWatch.BitcoinService
+  alias NodeWatch.EthereumService
 
   require Logger
 
@@ -53,10 +55,10 @@ defmodule NodeWatch.AvailabilityWorker do
   end
 
   defp check_node_availability(%{chain: :ethereum} = node),
-    do: Ethereum.check_node_availability(node)
+    do: EthereumService.check_node_availability(node)
 
   defp check_node_availability(%{chain: :bitcoin} = node),
-    do: Bitcoin.check_node_availability(node)
+    do: BitcoinService.check_node_availability(node)
 
   defp log_message({:ok, message}), do: Logger.info(message)
   defp log_message({:error, message}), do: Logger.error(message)

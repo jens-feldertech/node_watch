@@ -1,13 +1,16 @@
-defmodule NodeWatch.Integrity.Checker do
+defmodule NodeWatch.Integrity.CheckerService do
+  @moduledoc """
+    This module is responsible for performing integrity check for the node.
+  """
   alias NodeWatch.RPCClient
 
-  @config Application.compile_env(:node_watch, __MODULE__)
+  @config Application.compile_env(:node_watch, :integrity_check_methods)
 
   def check_node_integrity(node, cached_result) do
     methods = @config[node.chain]
 
     with {:ok, result} <- RPCClient.patch_post(node.chain, methods, node.url),
-         true <- matching_result?(result, cached_result, node.name) do
+         true <- matching_result?(result, cached_result, node.chain) do
       {:ok, craft_message(node, "Integrity check passed")}
     else
       {:error, error} ->
@@ -31,8 +34,8 @@ defmodule NodeWatch.Integrity.Checker do
     end
   end
 
-  defp matching_result?(result, cached_result, node_name) do
-    result == cached_result[node_name]
+  defp matching_result?(result, cached_result, node_chain) do
+    result == cached_result[node_chain]
   end
 
   defp craft_message(node, message), do: "integrity_check; #{node.chain}; #{node.url}; #{message}"
